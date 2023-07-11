@@ -1,1 +1,2 @@
-print("hello world")
+import openai
+from dotenv import load_dotenv
